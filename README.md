@@ -1,9 +1,9 @@
 [![BannerGif](https://github.com/user-attachments/assets/998acf78-efc1-4cc9-b645-e388f079cf8c)](https://github.com/JGolaszewski)
 ***
 
-<img align="right" width="300" src="https://github.com/user-attachments/assets/628e5540-eff4-448e-a82a-cea0b5d9c482" />
+<img align="right" width="300" src="./assets/banner2.gif" />
 
-# About me:
+### About me:
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
